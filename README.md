@@ -8,6 +8,8 @@ A review of blockchain technology and its applications: https://www.sciencedirec
 
 Telegram：https://t.me/ChaincatChinese
 
+Github：https://github.com/Chain-cat
+
 "Chain-cat" aims to provide the best digital asset management experience for digital asset enthusiasts, blockchain beginners and practitioners. Whether you are managing digital assets or participating in the development of blockchain applications, "Chain-cat" will be your most reliable digital asset management tool. Download "Chain-cat" now, join the world of blockchain, and enjoy convenient and efficient digital asset management services!
 
 Extracting passwords:123456
@@ -19,6 +21,8 @@ Extracting passwords:123456
 如果您希望了解更多关于区块链技术和工具的学术内容，我们推荐您参考以下学术链接：
 
 Telegram：https://t.me/ChaincatChinese
+
+Github：https://github.com/Chain-cat
 
 区块链技术及其应用的综述：https://www.sciencedirect.com/science/article/pii/S209657982030234X
 
