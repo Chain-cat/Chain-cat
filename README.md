@@ -12,9 +12,9 @@ Overview of Blockchain Technology and Its Applications: https://www.sciencedirec
 
 Our official links:
 
-Telegram: https://t.me/ChaincatChinese
+- Telegram: https://t.me/ChaincatChinese
 
-Github: https://github.com/Chain-cat
+- Github: https://github.com/Chain-cat
 
 "Chain Cat" aims to provide the best digital asset management experience for digital asset enthusiasts, blockchain beginners, and professionals. Whether you manage digital assets or participate in blockchain application development, "Chain Cat" will be your most trusted digital asset management tool. Download "Chain Cat" now, join the world of blockchain, and enjoy convenient and efficient digital asset management services!
 
