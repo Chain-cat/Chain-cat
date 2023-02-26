@@ -17,3 +17,7 @@ Our official link:
 "Chain-cat" aims to provide the best digital asset management experience for digital asset enthusiasts, blockchain beginners and practitioners. Whether you are managing digital assets or participating in the development of blockchain applications, "Chain-cat" will be your most reliable digital asset management tool. Download "Chain-cat" now, join the world of blockchain, and enjoy convenient and efficient digital asset management services!
 
 Extracting passwords: chaincat
+
+Have fun
+
+--End
