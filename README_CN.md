@@ -11,6 +11,7 @@
 我们的官方链接：
 
 - Telegram：https://t.me/ChaincatChinese
+            https://t.me/ChainCatChineses
 
 - Github：https://github.com/Chain-cat
 
