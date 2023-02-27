@@ -13,6 +13,7 @@ Overview of Blockchain Technology and Its Applications: https://www.sciencedirec
 Our official links:
 
 - Telegram: https://t.me/ChaincatChinese
+            https://t.me/ChainCatChineses
 
 - Github: https://github.com/Chain-cat
 
